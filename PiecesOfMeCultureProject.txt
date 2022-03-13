@@ -1,0 +1,24 @@
+Social Studies Assignment
+"Pieces of Me"
+Culture Project
+
+Index.html:
+Introduce what the website is about, what it's striving for, etc.
+Give basic details about what culture is, and tell the teacher where everything is located.
+
+Stylesheet.css:
+Center Everything
+Get a royalty free backround
+Make everything look nice
+
+1st cultural element:
+Clothing
+Each culture has different thoughts on what "fashion" is. 
+They all want to look nice, and may not think what we think is nice, looks appealing.
+We, as Americans, and Iowans change our idea of "fashion" everytime something new comes along.
+Even within our culture, everyone has their own idea of "fashion".
+Normally, Iowans and wear typical clothing.
+Shirt, shoes, pants etc.
+Many people wear sweatshirts, and some maybe a baseball cap.
+Sunglasses are very popular in our culture, with brands like "pitviper" and others.
+With clothing, it's really up to preference with the style.
