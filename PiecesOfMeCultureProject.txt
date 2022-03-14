@@ -7,6 +7,8 @@ Culture Project
 On the home page, the "notes" button has an error. For some reason it is not a full button.
 The code was being weird, it shouldn't appear like this but apparently it does. The little piece of 
 purple by the text is still a functional button.
+If you are on this page, you will see there is no buttons to go back to the actual cultural elements.
+Simply go back to the page by clicking the <- back arrow at the top left of your browser, right by the url.
 
 Index.html:
 Introduce what the website is about, what it's striving for, etc.
@@ -30,3 +32,4 @@ Sunglasses are very popular in our culture, with brands like "pitviper" and othe
 With clothing, it's really up to preference with the style.
 
 2nd cultural element:
+Food
