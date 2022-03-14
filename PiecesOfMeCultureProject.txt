@@ -1,7 +1,12 @@
-<
+(These are the notes for the assignment, and extra things)
 Social Studies Assignment
 "Pieces of Me"
 Culture Project
+
+(Extra Info)
+On the home page, the "notes" button has an error. For some reason it is not a full button.
+The code was being weird, it shouldn't appear like this but apparently it does. The little piece of 
+purple by the text is still a functional button.
 
 Index.html:
 Introduce what the website is about, what it's striving for, etc.
