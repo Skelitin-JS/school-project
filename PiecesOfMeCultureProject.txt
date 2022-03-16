@@ -10,6 +10,19 @@ purple by the text is still a functional button.
 If you are on this page, you will see there is no buttons to go back to the actual cultural elements.
 Simply go back to the page by clicking the <- back arrow at the top left of your browser, right by the url.
 
+All cultural factors used:
+Clothing
+Food
+Language
+Pets
+Hunting
+Family 
+Hertiage 
+Responsibility
+Hobbies
+Stories
+
+
 Index.html:
 Introduce what the website is about, what it's striving for, etc.
 Give basic details about what culture is, and tell the teacher where everything is located.
@@ -49,4 +62,7 @@ Our culture doesn't have many sacred recipes overall, but there are many recipes
  It's important to learn your language adequately, and know all of the usages of words.
  Knowing what your language is built upon, and where it orignated from will help you better understand your culture
  and your heritage.
+
+ 4th Cultural Element:
+ 
  
