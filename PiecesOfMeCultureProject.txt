@@ -24,7 +24,7 @@ Language
 Pets
 Hunting
 Family 
-Hertiage 
+Heritage
 Responsibility
 Hobbies
 Stories
@@ -97,5 +97,12 @@ Our culture doesn't have many sacred recipes overall, but there are many recipes
  Showing respect, and forgiveness is also.
  Not many people think about it, but families are essential in our culture.
  Whether it be adopted parents, friends, or even grandparents.
+
+ 7th Cultural Element:
+ Heritage:
+ Everyone has ancestors.
+ Ancestors are people in your heritage.
+ Learning about your heritage may help you learn about your roots.
+ Heritage is important, it shows what your family came from, and what they used to do.
  
  
