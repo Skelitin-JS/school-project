@@ -10,6 +10,13 @@ purple by the text is still a functional button.
 If you are on this page, you will see there is no buttons to go back to the actual cultural elements.
 Simply go back to the page by clicking the <- back arrow at the top left of your browser, right by the url.
 
+(Why I did it)
+I did this for my project to get more experience with HTML and css code.
+It took way longer than making a poster, which admittedly would of been much easier.
+Again, if you run into any problems with the site, like lack of readability please email me.
+This paper was also to share what I think is important in our culure, and how it made me who I am today.
+THANK YOU!
+
 All cultural factors used:
 Clothing
 Food
@@ -84,6 +91,11 @@ Our culture doesn't have many sacred recipes overall, but there are many recipes
 
  6th Cultural Element:
  Family:
- 
+ Family is very important in our culture.
+ Being kind, and caring for your family is also.
+ Spending time with your family, and being caring is very important.
+ Showing respect, and forgiveness is also.
+ Not many people think about it, but families are essential in our culture.
+ Whether it be adopted parents, friends, or even grandparents.
  
  
