@@ -20,5 +20,9 @@ h3{
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+
+  }
+  body{
+    background-image: url('https://images.pexels.com/photos/167699/pexels-photo-167699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
   }
 
